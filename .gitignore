@@ -3,3 +3,5 @@
 ################################################################################
 
 /SQLiteTempTable/.vs/SQLiteTempTable/v14
+/SQLiteTempTable/bin/Debug
+/SQLiteTempTable/obj/Debug
